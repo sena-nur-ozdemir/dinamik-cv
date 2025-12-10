@@ -52,7 +52,7 @@ Kullanıcılar CV’yi görüntüleyebilirken, admin paneli sayesinde tüm içer
 
 ## Kullanıcı Arayüzü
 
-🏠 CV Sitesi Kullanıcı Paneli
+## 🏠 CV Sitesi Kullanıcı Paneli
 
 <img width="1902" height="912" alt="mvc_cv5" src="https://github.com/user-attachments/assets/a725ca1d-6bf6-459a-8f5b-68bfa115919b" />
 
@@ -66,7 +66,7 @@ Kullanıcılar CV’yi görüntüleyebilirken, admin paneli sayesinde tüm içer
 
 
 
-🛠️ CV Sitesi Admin Paneli
+## 🛠️ CV Sitesi Admin Paneli
 
 <img width="1917" height="910" alt="mvc_cv1" src="https://github.com/user-attachments/assets/98a0af86-55e8-4b92-aca2-dfbf680ad220" />
 
@@ -118,6 +118,7 @@ git clone https://github.com/sena-nur-ozdemir/dinamik-cv.git
 
 ---
 
-📝 Katkılar
+## Katkılar
+
 Bu proje, Udemy’deki Admin Panelli Dinamik CV kursu tamamlandıktan sonra geliştirilmiş olup, Murat Yücedağ hocamın yönlendirmeleri sayesinde tamamlanmıştır.
 GitHub profili: [muratyucedag](https://github.com/muratyucedag)
