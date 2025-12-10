@@ -66,7 +66,8 @@ Kullanıcılar CV’yi görüntüleyebilirken, admin paneli sayesinde tüm içer
 
 
 
-🛠️ CV Sitesi Kullanıcı Paneli
+🛠️ CV Sitesi Admin Paneli
+
 <img width="1917" height="910" alt="mvc_cv1" src="https://github.com/user-attachments/assets/98a0af86-55e8-4b92-aca2-dfbf680ad220" />
 
 <img width="1917" height="911" alt="mvc_cv3" src="https://github.com/user-attachments/assets/57f54261-7f3f-432e-a1a3-2f5ff4a548c7" />
