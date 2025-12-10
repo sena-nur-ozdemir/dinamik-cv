@@ -105,17 +105,17 @@ git clone https://github.com/sena-nur-ozdemir/dinamik-cv.git
 
 2. Visual Studio ile projeyi açın.
 
--SQL Server üzerinde veritabanı bağlantısını yapılandırın:
-  --DB First yaklaşımı kullanıldığı için, .edmx dosyası üzerinden veritabanını bağlayın.--
-  --Gerekli connection string’i Web.config içinde güncelleyin.
+3.SQL Server üzerinde veritabanı bağlantısını yapılandırın:
+  - DB First yaklaşımı kullanıldığı için, .edmx dosyası üzerinden veritabanını bağlayın.
+  - Gerekli connection string’i Web.config içinde güncelleyin.
 
 4.Projeyi çalıştırın:
-  -Visual Studio’da IIS Express veya uygun bir sunucu ile çalıştırabilirsiniz.
-  -Tarayıcıda açıldığında kullanıcı panelini görüntüleyebilir, admin paneline giriş yaparak içerikleri yönetebilirsiniz.
+  - Visual Studio’da IIS Express veya uygun bir sunucu ile çalıştırabilirsiniz.
+  - Tarayıcıda açıldığında kullanıcı panelini görüntüleyebilir, admin paneline giriş yaparak içerikleri yönetebilirsiniz.
 
-5.Admin paneline giriş yapmak için:
-  -Kullanıcı adı ve şifreyi veritabanından kontrol edin veya ilk kayıt için seed verilerini kullanın.
-
+5. Admin paneline giriş yapmak için:
+  - Kullanıcı adı ve şifreyi veritabanından kontrol edin veya ilk kayıt için seed verilerini kullanın.
+    
 ---
 
 ## Katkılar
