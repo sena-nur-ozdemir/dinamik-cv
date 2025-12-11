@@ -8,7 +8,7 @@
 Bu proje, **ASP.NET MVC 5** kullanılarak geliştirilmiş bir **dinamik CV yönetim sistemi**dir.  
 Kullanıcılar CV’yi görüntüleyebilirken, admin paneli sayesinde tüm içerikler kolayca güncellenebilir ve yönetilebilir.  
 
-Öğrenilen ve uygulanan temel konular:
+## Öğrenilen ve uygulanan temel konular:
 - MVC mimarisi ve katmanlı yapı
 - Database First yaklaşımı ile **Entity Framework** kullanımı
 - Admin yetkilendirme ve güvenlik (ASP.NET Authorize)
