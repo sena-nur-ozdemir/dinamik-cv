@@ -5,7 +5,7 @@
 ---
 
 ## Proje Hakkında
-Bu proje, **ASP.NET MVC 5** kullanılarak geliştirilmiş bir **dinamik CV yönetim sistemi**dir.  
+Bu proje, **ASP.NET MVC5** kullanılarak geliştirilmiş bir **dinamik CV yönetim sistemi**dir.  
 Kullanıcılar CV’yi görüntüleyebilirken, admin paneli sayesinde tüm içerikler kolayca güncellenebilir ve yönetilebilir.  
 
 ## Öğrenilen ve uygulanan temel konular:
@@ -22,7 +22,7 @@ Kullanıcılar CV’yi görüntüleyebilirken, admin paneli sayesinde tüm içer
 ## Teknolojiler
 | Katman | Teknoloji |
 |--------|-----------|
-| Backend | C#, ASP.NET MVC 5 |
+| Backend | C#, ASP.NET MVC5 |
 | Frontend | HTML5, CSS3, JavaScript, Bootstrap |
 | Database | Microsoft SQL Server |
 | ORM | Entity Framework (DB First) |
@@ -52,7 +52,7 @@ Kullanıcılar CV’yi görüntüleyebilirken, admin paneli sayesinde tüm içer
 
 ## Kullanıcı Arayüzü
 
-## 🏠 CV Sitesi Kullanıcı Paneli
+## 🎯 CV Sitesi Kullanıcı Paneli
 
 <img width="1902" height="912" alt="mvc_cv5" src="https://github.com/user-attachments/assets/a725ca1d-6bf6-459a-8f5b-68bfa115919b" />
 
@@ -66,7 +66,7 @@ Kullanıcılar CV’yi görüntüleyebilirken, admin paneli sayesinde tüm içer
 
 
 
-## 🛠️ CV Sitesi Admin Paneli
+## ⚙️ CV Sitesi Admin Paneli
 
 <img width="1917" height="910" alt="mvc_cv1" src="https://github.com/user-attachments/assets/98a0af86-55e8-4b92-aca2-dfbf680ad220" />
 
