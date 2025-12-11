@@ -1,4 +1,4 @@
-# Dinamik CV Yönetim Sistemi (ASP.NET MVC)
+# Dinamik CV Yönetim Sistemi (ASP.NET MVC5)
 
 > Profesyonel CV içeriklerinin dinamik olarak yönetilebildiği web uygulaması. Admin paneli sayesinde CV’nin tüm bölümleri kolayca güncellenebilir ve yönetilebilir.
 
